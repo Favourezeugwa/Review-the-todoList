@@ -1,5 +1,5 @@
-import _ from 'lodash';
-import './style.css';
+//import _ from 'lodash';
+//import './style.css';
 
 import listItems from './modules/createlist.js';
 import { list, SaveItem } from './modules/class.js';
